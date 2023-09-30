@@ -5,6 +5,13 @@
 
 #I found I could get the producer and consumer working, sending and receiving to the smoker, but not food A and food B. There are three queues in RabbitMQ, so no idea why it wasn't working. !!! If this happens to you, note that there are no food temps in the csv file until 13:46:40, so these will simply show as none. After that point there will be activity in the queues for food A and B.
 
+#Here are the three queues running on RabbitMQ
+![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/31cf3921-9a25-4671-978b-8e50a53e58fe)
+
+#Here are the producer and consumer running in their own terminal window, and alerts are coming through.
+![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/d44b444c-0a00-4221-9466-97ebeebf308e)
+
+
 #Info on the project from the course site
 
 # We want to stream information from a smart smoker. Read one value every half minute. (sleep_secs = 30)
