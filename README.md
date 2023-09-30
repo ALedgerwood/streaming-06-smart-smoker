@@ -8,10 +8,10 @@
 #Here are the three queues running on RabbitMQ
 ![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/31cf3921-9a25-4671-978b-8e50a53e58fe)
 
-#Here are the producer and consumer running in their own terminal window, and alerts are coming through.
+#Here are the producer and consumer running in their own terminal window, and smoker alerts are coming through.
 ![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/d44b444c-0a00-4221-9466-97ebeebf308e)
 
-And another where you can see info from all three queues
+And another where you can see info from all three queues - Food A and B alerts as well
 ![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/94b8057a-799a-460b-956c-69a07c510077)
 
 
