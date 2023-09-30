@@ -11,6 +11,9 @@
 #Here are the producer and consumer running in their own terminal window, and alerts are coming through.
 ![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/d44b444c-0a00-4221-9466-97ebeebf308e)
 
+And another where you can see info from all three queues
+![image](https://github.com/ALedgerwood/streaming-06-smart-smoker/assets/111438988/94b8057a-799a-460b-956c-69a07c510077)
+
 
 #Info on the project from the course site
 
